@@ -1,4 +1,4 @@
-// ternery ---> (condition) ? do when true : do when false
+ ternery ---> (condition) ? do when true : do when false
 
 // const age = 13;
 
